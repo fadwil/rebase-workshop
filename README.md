@@ -10,6 +10,10 @@ CONTENTS OF THIS FILE
  * Configuration
  * Troubleshooting
 
+ * Branch1 first commit 
+ * Branch1 second commit 
+ * Branch1 third commit 
+
  INTRODUCTION
 ------------
 This is just a base template for a README with `Lorem Ipsum`, used for the [Rebase Workflow Workshop](https://mod4.turing.edu/lessons/rebase-workflow-workshop.html) session.
